@@ -1,0 +1,61 @@
+body{
+  background: white ;
+  color: black ;
+  font-size: 25px;
+  font-family: 'Mukta', sans-serif;
+
+}
+h1{
+  font-family: 'Mukta', sans-serif;
+  color: #62BAAF ;
+  font-weight: lighter; ;
+  font-size: 50px;
+}
+h2 {
+  font-family: 'Fjalla One', sans-serif;
+  color: C4EAD1 ;
+  font-weight: lighter;
+  font-size: 8px;
+}
+a {
+  color: grey ;
+}
+a:hover {
+  text-decoration: none;
+  color: pink ;
+}
+
+#banner
+{
+  text-align: center;
+  background-image: url("http://www.mauvilacindustries.com/files/mi/img/ct/clr/blues-and-aquas-fine.jpg");
+  background-size: cover;
+  padding: 150px;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+}
+
+
+
+.card
+{
+text-align: center;
+ padding: 50px;
+
+  }
+
+  #footer{
+  padding: 15px;
+  background: rgb(30, 30, 30);
+  color: #62BAAF  ;
+  font-size: 20px;
+  }
+
+  #footer a {
+  color: grey ;
+  font-size: 25px;
+}
+
+#footer a:hover {
+  color: pink ;
+}
